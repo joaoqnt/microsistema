@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "184112504001",
+    "project_id": "microerp-b1abb",
+    "storage_bucket": "microerp-b1abb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184112504001:android:1c4547cb28a4f8b06f8840",
+        "android_client_info": {
+          "package_name": "br.com.microsistema.developer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184112504001-brnla9trmcnsnqt34lrt1occ8gu6bito.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOUfwjVHbk127wRiGFhybn-yJ0JybJefQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184112504001-brnla9trmcnsnqt34lrt1occ8gu6bito.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
